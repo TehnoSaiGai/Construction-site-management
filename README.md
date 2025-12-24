@@ -1,3 +1,2 @@
 # Exam
-Figma screenshots
-UML diagram
+Figma screenshots and UML diagram
