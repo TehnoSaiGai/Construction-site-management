@@ -1,0 +1,22 @@
+@startuml
+
+left to right direction
+
+actor Работник as r
+actor Админисратор as a
+
+package Сайт {
+   usecase "Просмортр" as UC1
+   usecase "Добавление" as UC2
+   usecase "Редактирование" as UC3
+   usecase "Редактирование сайта" as UC4
+}
+r --> UC1
+r --> UC2
+r --> UC3
+a --> UC1
+a --> UC2
+a --> UC3
+a --> UC4
+
+@enduml
