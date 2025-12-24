@@ -1,2 +1,2 @@
 # Exam
-Exam Desktop 24.14.2025 
+Figma screenshots
